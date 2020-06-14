@@ -1,7 +1,5 @@
 ## Offline Todo List app
 
-**[Here is the link to the Demo](https://github.com/amandeepmittal/offline-todolist-app)**
-
 ## Screens
 
 - Addding a new item
